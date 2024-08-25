@@ -19,3 +19,20 @@ A metodologia DAO (Data Access Object) é um padrão de design que separa a lóg
 
 - MySql
 
+## Tela inicial 
+![image](https://github.com/user-attachments/assets/650bbb3d-5200-4859-ac98-c6f24f2336af)
+
+## Configurações de banco
+troque as variáveis conforme a necessidade:
+
+     $host = "localhost";
+    
+     $dbname = "moviestar";
+    
+     $user = "root";
+    
+     $password = "";
+![image](https://github.com/user-attachments/assets/1aae954e-4a93-446e-883e-b6413fdb9e4d)
+
+
+
